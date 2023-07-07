@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 less important codes
 about 300lines
+=======
+궁시렁 궁시렁
+>>>>>>> 963f1f5 (2개를 한번에 커밋커밋)
